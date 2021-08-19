@@ -1,0 +1,9 @@
+%batata
+witchcraft:fazticeira
+dragon:dragão
+beautiful:lindo,linda,bela,bonito
+software:programa,aplicativo
+application:aplicativo,programa
+pretty:linda,lindo,bela,bonito
+%macarrão
+egg:ovo
